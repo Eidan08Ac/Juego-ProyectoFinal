@@ -38,7 +38,7 @@ Para editar o jugar este proyecto desde el motor de Unity, necesitas tener insta
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+    git clone https://github.com/Eidan08Ac/Juego-ProyectoFinal.git
     ```
 2.  **Abrir en Unity Hub:**
     * Abre Unity Hub.
