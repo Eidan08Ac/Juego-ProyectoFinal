@@ -21,12 +21,6 @@ estratégico, retándote a escapar de la isla mientras compites por lograr la pu
 
 ---
 
-## 🎥 Gameplay (Demo)
-### Vista Previa Rápida
-![Gameplay GIF](screenshots/gameplay.gif)
-
----
-
 ## ⚙️ Cómo ejecutar el proyecto
 
 Para editar o jugar este proyecto desde el motor de Unity, necesitas tener instalada la siguiente versión:
@@ -53,4 +47,4 @@ Para editar o jugar este proyecto desde el motor de Unity, necesitas tener insta
 ---
 
 ## ✒️ Autores
-* **Eidan Cárdenas y Holmant Alarcón** - *Desarrollo y Diseño* - [Tu GitHub](https://github.com/tu-usuario)
+* **Juan Gómez, Holmant Alarcón y Eidan Cárdenas** - *Desarrollo y Diseño*
